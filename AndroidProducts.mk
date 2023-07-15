@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_d2s.mk
+    $(LOCAL_DIR)/octavi_d2s.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_d2s-eng \
-    pixys_d2s-user \
-    pixys_d2s-userdebug
+    octavi_d2s-eng \
+    octavi_d2s-user \
+    octavi_d2s-userdebug
